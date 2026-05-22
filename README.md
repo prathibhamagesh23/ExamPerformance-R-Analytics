@@ -90,19 +90,3 @@ The dataset contains:
 
 ---
 
-## Repository Structure
-
-```bash
-Student-Performance-DataWrangling/
-│
-├── data/
-│   └── StudentsPerformance.csv
-│
-├── report/
-│   └── Practical_Assessment_1.Rmd
-│
-├── output/
-│   └── Practical_Assessment_1.pdf
-│
-├── README.md
-└── requirements.txt
